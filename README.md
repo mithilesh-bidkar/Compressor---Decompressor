@@ -1,12 +1,16 @@
 
-The "File Compression and Decompression Utility" project is developed using Java Swing, aiming to efficiently compress and decompress files on your computer that occupy significant storage space.
+The Data Compression ans Decompression project aims to reduce the number of bits required to represent data using compression techniques. The project focuses on achieving compression without any loss of data, employing only lossless conversion methods. By implementing this project, we can realize several benefits such as saving storage space, speeding up file transfers, and reducing storage hardware and network bandwidth costs. The key objective is to ensure that the compressed files can be restored to their original form accurately.
 
-# Compressor:
-The compressor component of this utility employs advanced algorithms to reduce the file size of selected files, resulting in efficient compression. The compressed files are easily accessible and can be conveniently shared with others. By utilizing this functionality, users can significantly decrease both the time required for file transfers and the storage space occupied by their files.
+# Features
+The project includes the following features:
 
-# Decompressor:
-The decompressor module serves as a counterpart to the compressor, enabling users to restore their compressed files back to their original state. With the help of the decompressor, users can effortlessly retrieve their files that were previously compressed using the utility's compression feature.
+Lossless Compression: The compression techniques utilized in the project ensure that no data is lost during the compression process. The original data can be perfectly reconstructed from the compressed files.
 
-This project offers a user-friendly interface implemented using Java Swing, providing an intuitive experience for users to effectively manage their files through compression and decompression operations.
+Reduced Storage Space: By compressing data, the project significantly reduces the amount of storage space required to store files or data.
 
-Overall, the "File Compression and Decompression Utility" project enhances file management efficiency by reducing file sizes, saving storage space, and facilitating easy file sharing while ensuring seamless file restoration through the decompression process.
+Improved File Transfer Speed: Compressed files can be transferred more quickly over networks or through file-sharing platforms due to their reduced size.
+
+Cost Reduction: The project's compression techniques help minimize storage hardware and network bandwidth costs, as less space is needed to store and transmit data.
+
+Restoration of Compressed Files: The project ensures that compressed files can be accurately restored to their original form without any loss of data.
+
