@@ -1,4 +1,4 @@
-# Compressor---Decompressor
+
 The "File Compression and Decompression Utility" project is developed using Java Swing, aiming to efficiently compress and decompress files on your computer that occupy significant storage space.
 
 # Compressor:
